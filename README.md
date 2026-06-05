@@ -1,8 +1,8 @@
-![Project Alabama demo](./public/readme/alabama.jpg)
+
 
 # Project Alabama
 
-Project Alabama is a full-stack, LLM-assisted security analytics app for insider-threat and suspicious activity detection. It ingests enterprise log events, normalizes and stores them in PostgreSQL, runs rule-based detections, and helps analysts investigate findings through a security operations dashboard with Gemini-generated explanations.
+ Alabama is a full-stack, LLM-assisted security analytics app for insider-threat and suspicious activity detection. It ingests enterprise log events, normalizes and stores them in PostgreSQL, runs rule-based detections, and helps analysts investigate findings through a security operations dashboard with Gemini-generated explanations.
 
 ## What It Does
 
